@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: red; font-size: 2000%; font-family: Chalkduster;
+}
+
+
+
+h2{
+  text-align: center;
+  color: red; font-family: Chalkduster;font-size: 150%}
+ p{
+  text-align: center;
+  color: red; font-family: Chalkduster;font-size: 500%
+ 
+}
+body {
+  background-color: black;  
+}
+
+
+}
